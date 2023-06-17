@@ -1,0 +1,192 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<supermercados>
+
+<Carrefour> 
+   <direccion> Avenida Manuel de Fallas, 13 </direccion>
+   <codigopostal> 46015 </codigopostal>
+   <geolocalizacion>
+    Latitude: 39.468881
+    Longitude: -0.376052
+   </geolocalizacion>
+<secciones_productos>
+<pescaderia>
+    <producto> Lubina </producto>
+    <informacion> Lubina fresca </informacion>
+    <unidades> 1 </unidades>
+    <unidades_medidas> kilogramos </unidades_medidas>
+    <periodo_vigencia> 10/06/2023 </periodo_vigencia>
+    <oferta> false </oferta>
+    <frecuente> false </frecuente>
+    <adquirido> true </adquirido>
+    <precio> 5.60</precio>
+</pescaderia>
+
+<pescaderia>
+   <producto> Salmón </producto>
+   <informacion> Salmón fresco </informacion>
+   <unidades> 1 </unidades>
+   <unidades_medidas> kilogramos </unidades_medidas>
+   <periodo_vigencia> 10/06/2023 </periodo_vigencia>
+   <oferta> false </oferta>
+   <frecuente> true </frecuente>
+   <adquirido> false </adquirido>
+   <precio> 10.70 </precio>
+</pescaderia>
+
+<panaderia>
+   <producto> Pan de chocolate </producto>
+   <informacion> Pan blanco relleno de chocolate </informacion>
+   <marca> Carrefour </marca>
+   <unidades> 1 </unidades>
+   <unidades_medidas> Gramos </unidades_medidas>
+   <periodo_vigencia> 20/11/2023 </periodo_vigencia>
+   <oferta> true </oferta>
+   <frecuente> false </frecuente>
+   <adquirido> false </adquirido>
+   <precio> 3.50 </precio>
+</panaderia>
+
+<panaderia>
+   <producto> Pan para hamburguesa </producto>
+   <informacion> Pan ideal para hamburguesa </informacion>
+   <marca> Bimbo </marca>
+   <unidades> 1 </unidades>
+   <unidades_medidas> Gramos </unidades_medidas>
+   <periodo_vigencia> 24/07/2023 </periodo_vigencia>
+   <oferta> false </oferta>
+   <frecuente> false </frecuente>
+   <adquirido> true </adquirido>
+   <precio> 2.78 </precio>
+</panaderia>
+</secciones_productos>
+</Carrefour>
+
+<Mercadona>
+  <direccion> Carrer de Sueca, 56 </direccion>
+  <codigopostal> 46006 </codigopostal>
+  <geolocalizacion>
+      "Latitude": 39.469187,
+      "Longitude": -0.374534
+  </geolocalizacion>
+
+  <secciones_productos>
+  <Fruteria>
+     <producto> Manzana </producto>
+     <marca> Marlene </marca>
+     <informacion> Manzana roja </informacion>
+     <unidades> 1 </unidades>
+     <unidades_medidas> Gramos </unidades_medidas>
+     <periodo_vigencia> 15/06/2023 </periodo_vigencia>
+     <oferta> false </oferta>
+     <frecuente> true </frecuente>
+     <adquirido> true </adquirido>
+     <precio> 0.70 </precio>
+   </Fruteria>
+
+   <Fruteria>
+     <producto> Arándanos </producto>
+     <marca> Hermanos Marquez </marca>
+     <informacion> Arándanos frescos </informacion>
+     <unidades> 1 </unidades>
+     <unidades_medidas> Gramos </unidades_medidas>
+     <periodo_vigencia> 09/07/2023 </periodo_vigencia>
+     <oferta>  false </oferta>
+     <frecuente> false </frecuente>
+     <adquirido> true </adquirido>
+     <precio> 4.20 </precio>
+   </Fruteria>
+
+   <Limpieza>
+     <producto> Lavavajillas </producto>
+     <marca> Fairy </marca>
+     <informacion> Lavavajillas aroma a limón </informacion>
+     <unidades> 1 </unidades>
+     <unidades_medidas> Litros </unidades_medidas>
+     <periodo_vigencia> 23/02/2024 </periodo_vigencia>
+     <oferta> true </oferta>
+     <frecuente> true </frecuente>
+     <adquirido> true </adquirido>
+     <precio> 2.90 </precio>
+   </Limpieza>
+
+   <Limpieza>
+     <producto> Detergente para ropa </producto>
+     <marca> Fairy </marca>
+     <informacion> Detergente para ropa con aroma a lavanda </informacion>
+     <unidades> 1 </unidades>
+     <unidades_medidas> Litros </unidades_medidas>
+     <periodo_vigencia> 23/07/2024 </periodo_vigencia>
+     <oferta> false </oferta>
+     <frecuente> true </frecuente>
+     <adquirido> false </adquirido>
+     <precio> 3.80 </precio>
+   </Limpieza>
+   </secciones_productos>
+</Mercadona>
+
+<Lidl>
+   <direccion> Gran Vía del Marqués del Túria, 52 </direccion>
+   <codigopostal>46005</codigopostal>
+   <geolocalizacion>
+      "Latitude": 39.468881,
+      "Longitude": -0.376052
+   </geolocalizacion>
+
+   <secciones_productos>
+   <panaderia>
+      <producto> Pan blanco </producto>
+      <marca> Bimbo </marca>
+      <informacion> Pan blanco </informacion>
+      <unidades> 1 </unidades>
+      <unidades_medidas> Gramos </unidades_medidas>
+      <periodo_vigencia> 20/11/2023 </periodo_vigencia>
+      <oferta> false </oferta>
+      <frecuente> false </frecuente>
+      <adquirido> true </adquirido>
+      <precio> 2.90 </precio>
+   </panaderia>
+
+   <panaderia>
+      <producto> Pan integral </producto>
+      <marca> Bimbo </marca>
+      <informacion> Pan integral </informacion>
+      <unidades> 1 </unidades>
+      <unidades_medidas> Gramos </unidades_medidas>
+      <periodo_vigencia> 14/06/2023 </periodo_vigencia>
+      <oferta> true </oferta>
+      <frecuente> false </frecuente>
+      <adquirido> false </adquirido>
+      <precio> 1.20 </precio>
+   </panaderia>
+
+   <Fruteria>
+      <producto> Peras </producto>
+      <marca> Marlene </marca>
+      <informacion> Peras frescas </informacion>
+      <unidades> 1 </unidades>
+      <unidades_medidas> Gramos </unidades_medidas>
+      <periodo_vigencia> 14/06/2023 </periodo_vigencia>
+      <oferta> true </oferta>
+      <frecuente> false </frecuente>
+      <adquirido> false </adquirido>
+      <precio> 1.20 </precio>
+   </Fruteria>
+
+   <Fruteria>
+      <producto> Aguacate </producto>
+      <marca> Marlene </marca>
+      <informacion> Aguacate mexicano </informacion>
+      <unidades> 1 </unidades>
+      <unidades_medidas> Gramos </unidades_medidas>
+      <periodo_vigencia> 03/07/2023 </periodo_vigencia>
+      <oferta> false </oferta>
+      <frecuente> false </frecuente>
+      <adquirido> true </adquirido>
+      <precio> 1.50 </precio>
+   </Fruteria>
+   </secciones_productos>
+</Lidl>
+</supermercados>
+
+
+

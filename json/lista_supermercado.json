@@ -1,0 +1,200 @@
+{
+    "supermercados" : [
+        {
+            "nombre" : "Carrefour",
+            "direccion" : "Avenida Manuel de Fallas, 13",
+            "codigo postal": 46015,
+            "geolocalización":{
+                "Latitude": 39.468696,
+                "Longitude": -0.360316
+            },
+            "secciones de productos" : [ {
+                "pescaderia" : [ 
+                    { 
+                        "producto" : "Lubina",
+                        "información" : "Lubina fresca",
+                        "unidades": 1,
+                        "unidades de medida" : "kilogramos",
+                        "periodo de vigencia" : "10/06/2023",
+                        "oferta" : false,
+                        "frecuente" : false,
+                        "adquirido" : true,
+                        "precio" : 5.60
+                    
+
+                    } ,
+                    {
+                    "producto" : "Salmón",
+                    "información" : "Salmón fresco",
+                    "unidades":1,
+                    "unidades de medida": "kilogramos",
+                    "periodo de vigencia":"10/06/2023",
+                    "oferta":false,
+                    "frecuente": true,
+                    "adquirido":false,
+                    "precio": 10.70
+                    }
+                ],
+             "panaderia" : [
+                    {
+                    "producto" : "Pan de chocolate",
+                    "información" : "Pan blanco relleno de chocolate",
+                    "marca" : "Carrefour",
+                    "unidades" :1,
+                    "uidades de medida": "gramos",
+                    "periodo de vigencia": "20/11/2023",
+                    "oferta": true,
+                    "frecuente" : false,
+                    "adquirido":false,
+                    "precio" : 3.50
+
+                },
+                {
+                    "producto" : "Pan para hamburguesas",
+                    "información": "Pan ideal para hamburguesas",
+                    "marca": "Bimbo",
+                    "unidades": 1,
+                    "unidades de medida":"gramos",
+                    "periodo de vigencia":"24/07/2023",
+                    "oferta":false,
+                    "frecuente": false,
+                    "adquirido":true,
+                    "precio":2.78
+                    
+                }
+            ]
+
+        }
+                
+    ],
+    "nombre": "Mercadona",
+    "direccion": "Carrer de Sueca,56",
+    "codigo postal":46006,
+    "geolocalización":{
+        "Latitude": 39.469187,
+        "Longitude": -0.374534
+    },
+    "secciones de productos":[
+        {
+            "fruteria": [
+                {
+                    "producto" : "Manzana",
+                    "marca" : "Marlene",
+                    "información" : "Manzana roja",
+                    "unidades": 1,
+                    "unidades de medida": "gramos",
+                    "periodo de vigencia":"15/06/2023",
+                    "oferta": false,
+                    "frecuente":true,
+                    "adquirido":true,
+                    "precio": 0.70
+                    
+                },
+                {
+                    "producto":"Arándanos",
+                    "marca": "Hermanos Marquez",
+                    "información" : "Arándanos frescos",
+                    "unidades" : 1,
+                    "unidades de medida": "gramos",
+                    "periodo de vigencia" : "09/07/2023",
+                    "oferta":false,
+                    "frecuente":false,
+                    "adquirido" : true,
+                    "precio": 4.20
+                }
+            ],
+            "limpieza":[
+                {
+                    "producto": "Lavavajillas",
+                    "marca": "Fairy",
+                    "información": "Lavavajillas con aroma a limón",
+                    "unidades":1,
+                    "unidades de medida": "litros",
+                    "periodo de vigencia": "23/02/2024",
+                    "oferta":true,
+                    "frecuente": true,
+                    "adquirido": true,
+                    "precio": 2.90
+                },
+                {
+                    "producto": "Detergente para ropa",
+                    "marca": "Fairy",
+                    "información": "Detergente para ropa con aroma a lavanda",
+                    "unidades": 1,
+                    "unidades de medida": "litros",
+                    "periodo de vigencia": "23/07/2024",
+                    "oferta": false,
+                    "frecuente":true,
+                    "adquirido":false,
+                    "precio":3.80
+                }
+            ]
+        }
+    ],
+    "nombre": "Lidl",
+    "direccion": "Gran Via del Marqués del Túria, 52",
+    "codigo postal": 46005,
+    "geolocalización": {
+        "Latitude": 39.468881,
+        "Longitude": -0.376052
+    },
+    "secciones de productos":[
+        {
+           "panaderia" : [
+            {
+                "producto":"Pan blanco",
+                "marca": "Bimbo",
+                "información":"Pan blanco",
+                "unidades":1,
+                "unidades de medida": "gramos",
+                "periodo de vigencia": "20/11/2023",
+                "oferta": false,
+                "frecuente": false,
+                "adquirido": true,
+                "precio":2.90
+            },
+            {
+                "producto": "Pan integral",
+                "marca": "Bimbo",
+                "información": "Pan integral",
+                "unidades":1,
+                "unidades de medida":"gramos",
+                "periodo de vigencia": "05/10/2023",
+                "oferta":false,
+                "frecuente":true,
+                "adquirido":false,
+                "precio": 3.10
+            }
+           ],
+           "fruteria":[
+            {
+                "producto": "Peras",
+                "marca":"Marlene",
+                "información": "Peras frescas",
+                "unidades":1,
+                "unidades de medida":"gramos",
+                "periodo de vigencia":"14/06/2023",
+                "oferta":true,
+                "frecuente":false,
+                "adquirido":false,
+                "precio":1.20
+            },
+            {
+                "producto": "Aguacate",
+                "marca": "Marlene",
+                "información": "Aguacate mexicano",
+                "unidades":1,
+                "unidades de medida":"gramos",
+                "periodo de vigencia":"03/07/2023",
+                "oferta":false,
+                "frecuente":false,
+                "adquirido":true,
+                "precio": 1.50
+            }
+           ]
+        }
+    ]
+                             
+        }
+    ]
+}
